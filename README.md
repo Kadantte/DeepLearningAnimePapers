@@ -3,7 +3,7 @@ A list of papers and other resources on computer vision and deep learning with a
 Contributions welcome!
 
 ## Contents
-- [Anime Datasets](#anime-datsets)
+- [Anime Datasets](#anime-datasets)
 - [Anime Papers](#anime-papers)
   - [Anime Colorization](#anime-colorization)
   - [Anime Face Recognition](#anime-face-recognition)
